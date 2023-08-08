@@ -25,7 +25,7 @@ Instala las dependencias: pip install -r requirements.txt
 Ejecuta la API desde la terminal: uvicorn main:app --reload
 Accede a la documentación de la API en: http://127.0.0.1:8000/docs
 
-Tambien puedes acceder a este modelo atraves del servicio web Render en la direcion ip:  https://api1-0syk.onrender.com/docs
+Tambien puedes acceder a este modelo atraves del servicio web Render en la direcion ip:  https://api1-zzzl.onrender.com/docs
 
 ## Endpoints
 GET /juegos/{Anio}: Obtiene una lista de juegos lanzados en el año especificado.
