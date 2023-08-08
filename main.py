@@ -7,7 +7,7 @@ import sklearn
 
 
 # Ruta al archivo JSON
-file_path = '../PI MLOps - STEAM/steam_games.json'
+file_path = 'PI MLOps - STEAM/steam_games.json'
 
 # Leer el archivo JSON línea por línea y cargar los datos en una lista
 data_list = []
